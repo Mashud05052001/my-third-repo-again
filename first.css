@@ -1,0 +1,23 @@
+.header {
+    width: 80vw;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#header1:hover {
+    color: yellowgreen;
+    background: rgb(112, 108, 24);
+    cursor: pointer;
+}
+
+#header2:hover {
+    color: red;
+    background: #000;
+    cursor: pointer;
+}
+
+#header3:hover {
+    color: pink;
+    background: rgb(194, 54, 54);
+    cursor: pointer;
+}
